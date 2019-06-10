@@ -1,14 +1,23 @@
 Microsoft HTML Help Compiler 4.74.8702
 
-Compiling E:\Programmer\cprogram_home\c_funtest\chm_program\chm_program.CHM
+Compiling e:\Programmer\chm_erp\chm_program.CHM
 
-main\operation intro.html
+operation intro.html
+HHC5003: Error: Compilation failed while compiling operting_manual\constructing department manual.html#生产操作手册.
 operting_manual\sales department manual.html#操作手册_销售
-HHC5003: Error: Compilation failed while compiling operting_manual\shipping department manual.html#采购操作手册.
+operting_manual\shipping department manual.html#采购操作手册
+operting_manual\technology department manual.html#工艺操作手册
+HHC5003: Error: Compilation failed while compiling operting_manual\warehouse department manual.html#仓库操作手册.
 TOC-Created-By-Easy-CHM.HHC
 operting_manual\sales department manual.html
+operting_manual\technology department manual.html
 operting_manual\shipping department manual.html
+operting_manual\constructing department manual.html
+operting_manual\warehouse department manual.html
+pics\tough.png
+pics\connectme.png
 
 
 The following files were not compiled:
-operting_manual\shipping department manual.html#采购操作手册
+operting_manual\constructing department manual.html#生产操作手册
+operting_manual\warehouse department manual.html#仓库操作手册
