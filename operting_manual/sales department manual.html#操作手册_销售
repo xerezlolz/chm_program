@@ -1,11 +1,19 @@
 <html>
 <head><title>销售_操作手册</title></head>
-<body>
-<h1 style="text-align:center;font-family:黑体;font-size:30px">销售_操作流程及操作手册</h1>
-<h2><font color="#0000FF">Abstract</font></h2>
 
-<ul>
-<li><a href="file:\\G:\programs_company\cprogram_company\c_funtest\chm_program\main\">回到首页</a></li>
-</ul>
+<body style="background-color:#F0F8FF">
+<h1 style="text-align:center;font-family:黑体;font-size:30px">操作手册-销售部</h1>
+<hr>
+
+<h2 style="font-family:source code pro; font-size:23px; color:#0000FF">Abstract</font></h2>
+<p style="font-family:微软雅黑;font-size:16px">以下为销售部操作指导手册，若有任何问题，请随时在群里联系用友顾问</p>
+<P><img border="0" src="pics/wechatgroup.jpg" width="130" height="175"></P>
+<hr>
+<ol>
+ <li style="font-family:微软雅黑;font-size:15px"><a src="./">标准产品销售操作流程</a></li>
+ <li style="font-family:微软雅黑;font-size:15px"><a>非标产品销售操作流程</a></li>
+</ol>
+<hr>
+<a href="\operation intro.html">回到首页</a>
 </body>
 </html>
